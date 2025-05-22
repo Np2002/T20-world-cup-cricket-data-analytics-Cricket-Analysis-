@@ -66,7 +66,7 @@ the past 3 years.
 
 Best Batters:
 
-![best batters](assets/best batters.png)
+![best batters](assets/best_batters.png)
 
 
 AVG Batting vs S/R :
@@ -76,7 +76,7 @@ AVG Batting vs S/R :
 
 Best Bowlers :
 
-![best bowlers](assets/best bowlers.png)
+![best bowlers](assets/best_bowlers.png)
 
 
 AVG Bowling vs S/R :
@@ -102,7 +102,10 @@ That's all about This Project
 
 ## 👤 Author
 
-**[Nidhi Kachhi]**  
+**Nidhi Kachhi**  
 📧 Email:[haldkarnidhi@gmail.com](mailto:haldkarnidhi@gmail.com)   
+
 🌐 GitHub: [github.com/Np2002](https://github.com/Np2002)
+
+
 📎 LinkedIn: [linkedin.com/in/nidhi-kachhi](https://www.linkedin.com/in/nidhi-kachhi/)
